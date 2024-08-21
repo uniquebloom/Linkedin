@@ -1,37 +1,37 @@
-username: <username>
-password: <password>
-phone_number: <phone_number>
+username: <gulnazpm@gmail.com>
+password: <Qulnazbo07/>
+phone_number: <07585682967>
 
-profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
+profile_path: 'https://www.linkedin.com/in/gulnazds/' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
 
 positions:
-- Software Engineer
+- Junior Data Scientist
+- Data Analyst
+- entry level data scientist 
 
 
 locations:
-- Michigan
+- London
 - Remote
+- United Kingdom
 
-salary: 60,000
+salary: 40,000
 rate: 25
 # --------- Optional Parameters -------
 uploads:
-  Resume: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cv.pdf
-  Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
+  Resume: Data_Scientist_Gulnaz.pdf
+  Cover Letter: cover_letter_GB.pdf
   #Photo: # PATH TO photo
 
 
 output_filename:
-- /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+- out.csv
 
 # blacklist:
 # - # Company names you want to ignore
 
 experience_level:
-  # - 1 # Entry level
-  # - 2 # Associate
-  # - 3 # Mid-Senior level
-  # - 4 # Director
-  # - 5 # Executive
-  # - 6 # Internship
+  - Entry level
+  - Associate
+  - Internship
